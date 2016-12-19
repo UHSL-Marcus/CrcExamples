@@ -1,0 +1,17 @@
+﻿  slow_examples.cpp
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(18): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(32): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(65): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(171): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(175): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(179): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+c:\users\kfjhg\documents\visual studio 2015\projects\crcexamples\slow_examples\slow_examples.cpp(183): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+  slow_examples.vcxproj -> C:\Users\kfjhg\Documents\Visual Studio 2015\Projects\CrcExamples\x64\Debug\slow_examples.exe
+  slow_examples.vcxproj -> C:\Users\kfjhg\Documents\Visual Studio 2015\Projects\CrcExamples\x64\Debug\slow_examples.pdb (Full PDB)
