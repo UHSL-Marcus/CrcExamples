@@ -35,6 +35,20 @@ const char *short_to_binary(uint16_t in)
 	return b;
 }
 
+const char *long_to_binary(uint32_t in)
+{
+	static char b[33];
+	b[0] = '\0';
+
+	uint32_t z;
+	for (z = 2147483647; z > 0; z >>= 1)
+	{
+		strcat(b, ((in & z) == z) ? "1" : "0");
+	}
+
+	return b;
+}
+
 
 void crc16_print_reg_pad(uint8_t *data, int data_len, uint16_t reg, int reg_idx, uint16_t poly) {
 	int paddedLen = data_len + 2; // include two 0 bytes
